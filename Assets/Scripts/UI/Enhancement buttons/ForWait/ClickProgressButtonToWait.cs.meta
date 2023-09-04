@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 01ec76af75f4c824aa9c22675d478abe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _waitProgression: {fileID: 11400000, guid: df4df28bf52125446bfa9ff9b1ea2d54, type: 2}
+  - _clickerGame: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
